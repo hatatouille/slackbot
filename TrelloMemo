@@ -1,0 +1,11 @@
+http://qiita.com/musclemikiya/items/38586a08df799f6069bf
+
+Key: 1c1d128356cdd804e005a2226d255a11
+Secret: 72fb7d1b33d83a587abd9a2457684f286ad0b825f33660af5b0ed36e733d5974
+Token: 30f06e93e0b81d1e4a409b628acad20bef128931fe65a41ef0373e8a460b2310
+
+https://trello.com/app-key
+https://trello.com/1/token/approve
+https://trello.com/1/members/hirokishiotsuka/boards?key=1c1d128356cdd804e005a2226d255a11&token=30f06e93e0b81d1e4a409b628acad20bef128931fe65a41ef0373e8a460b2310
+
+https://github.com/hatatouille/slackbot/blob/master/scripts/trello.coffee
